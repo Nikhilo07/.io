@@ -1137,6 +1137,12 @@ position: relative;
   bottom: 0;
   width: 90%;
 }
+  #animation1 {
+    width: 50%;
+  top: -200px;
+  left: -100px;
+  margin: 150px 100px;}
+}
 @media only screen and (max-width: 740px) {
   #animation1 {
     width: 50%;
